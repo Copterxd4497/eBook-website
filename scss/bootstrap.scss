@@ -12,5 +12,11 @@ $navbar-padding-y: 1rem;
 $navbar-dark-color: #fff;
 $navbar-dark-hover-color: $secondary;
 
+//buttons
+$button-radius: 50px;
+
+$btn-border-radius: $button-radius;
+$btn-border-radius-sm: $button-radius;
+$btn-border-radius-lg: $button-radius;
 
 @import '../node_modules/bootstrap/scss/bootstrap';
