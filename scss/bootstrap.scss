@@ -7,4 +7,10 @@ $secondary: #10bcee;
 $dark: #2b3041;
 $light: #f3f6f9;
 
+//Navbar
+$navbar-padding-y: 1rem;
+$navbar-dark-color: #fff;
+$navbar-dark-hover-color: $secondary;
+
+
 @import '../node_modules/bootstrap/scss/bootstrap';
