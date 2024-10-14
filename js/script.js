@@ -1,5 +1,4 @@
-// Add custom JavaScript here
-function userSroll() {
+function userScroll() {
     const navbar = document.querySelector('.navbar');
 
     window.addEventListener('scroll', () => {
@@ -13,4 +12,4 @@ function userSroll() {
     });
 }
 
-document.addEventListener('DOMContentLoaded', userSroll);
+document.addEventListener('DOMContentLoaded', userScroll);
